@@ -1,0 +1,11 @@
+`phpvms_twitch`*sql
+../admin/modules/Twitch_admin/Twitch_admin.php
+../admin/templates/Twitch/Twitch_edit_form.php
+../admin/templates/Twitch/Twitch_header.php
+../admin/templates/Twitch/Twitch_index.php
+../admin/templates/Twitch/Twitch_new_form.php
+../admin/templates/Twitch/sidebar_Twitch.php
+../admin/templates/Twitch/Twitch_details.php
+../core/common/TwitchData.class.php
+../core/modules/Twitch/Twitch.php
+../core/templates/Twitch/Twitch.php
